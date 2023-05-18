@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" id="search">
+    <button id="but" >vasda</button>
+</body>
+  
+<script defer>
+    class Element {
+        constructor(id) {
+            this.elem = document.getElementById(id)
+        }
+
+        hide(time = 0) {
+            this.elem.style.transitionDuration = String(time + 'ms');
+            this.elem.style.opacity = '0';
+        }
+
+        show(time = 0) {
+            this.elem.style.transitionDuration = String(time + 'ms');
+            this.elem.style.opacity = '1';
+        }
+
+    }
+
+    class Toggle {
+        constructor(id, state = true) {
+            this.elem = document.getElementById(id)
+            this.state = state
+            this.target = []
+        }
+
+        append(idd){
+            this.target.push(document.getElementById(idd))
+        }
+
+        toggle(){
+            if (this.state == false) {
+                for(var n in this.target){
+                    this.target[n].style.opacity = '1';
+                }
+                this.state = true
+            } else {
+                for(var n in this.target){
+                    this.target[n].style.opacity = '0';
+                }
+                this.state = false
+            }
+        }
+
+    }
+1
+    class SearchBar {
+        constructor(id){
+            this.id = this.id
+            this.bar = document.getElementById(id)
+
+        }
+
+        onKey(n, f) {
+            this.bar.addEventListener("keydown", function(){
+            if (document.getElementById(this.id).value.length > n) {
+                f()
+            }
+            
+            })
+        }
+
+        onButton(button, f){
+            button.addEventListener("click", function (){
+                f()
+            })
+        }
+        
+        
+    }
+    
+
+
+
+</script>
+<style>
+
+</style>
+</html>

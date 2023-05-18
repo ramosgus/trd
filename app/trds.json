@@ -1,0 +1,2092 @@
+{
+    "truths": [
+      {
+        "id": 1,
+        "type": "casual",
+        "question": "What is your biggest fear?"
+      },
+      {
+        "id": 2,
+        "type": "casual",
+        "question": "Have you ever lied to get out of trouble? What did you lie about?"
+      },
+      {
+        "id": 3,
+        "type": "casual",
+        "question": "What is the most embarrassing thing that has ever happened to you?"
+      },
+      {
+        "id": 4,
+        "type": "casual",
+        "question": "Have you ever cheated on a test or exam?"
+      },
+      {
+        "id": 5,
+        "type": "casual",
+        "question": "What is the worst date you've ever been on?"
+      },
+      {
+        "id": 6,
+        "type": "casual",
+        "question": "Have you ever stolen something? What was it?"
+      },
+      {
+        "id": 7,
+        "type": "casual",
+        "question": "Have you ever had a crush on someone who was already in a relationship?"
+      },
+      {
+        "id": 8,
+        "type": "casual",
+        "question": "What is the most trouble you've ever gotten into at school?"
+      },
+      {
+        "id": 9,
+        "type": "casual",
+        "question": "Have you ever told a secret that you promised to keep?"
+      },
+      {
+        "id": 10,
+        "type": "casual",
+        "question": "What is the most daring thing you have ever done?"
+      },
+      {
+        "id": 11,
+        "type": "casual",
+        "question": "What is your favorite childhood memory?"
+      },
+      {
+        "id": 12,
+        "type": "casual",
+        "question": "What is the most embarrassing thing that has ever happened to you?"
+      },
+      {
+        "id": 13,
+        "type": "casual",
+        "question": "If you could have any superpower, what would it be and why?"
+      },
+      {
+        "id": 14,
+        "type": "casual",
+        "question": "What is your guilty pleasure?"
+      },
+      {
+        "id": 15,
+        "type": "casual",
+        "question": "What is the most adventurous thing you have ever done?"
+      },
+      {
+        "id": 110,
+        "type": "casual",
+        "question": "What is your favorite movie of all time and why?"
+      },
+      {
+        "id": 109,
+        "type": "casual",
+        "question": "What is the one thing you would change about yourself if you could?"
+      },
+      {
+        "id": 108,
+        "type": "casual",
+        "question": "What is your biggest pet peeve?"
+      },
+      {
+        "id": 107,
+        "type": "casual",
+        "question": "If you could go back in time, what advice would you give your younger self?"
+      },
+      {
+        "id": 106,
+        "type": "casual",
+        "question": "What is the most valuable lesson you have learned in life so far?"
+      },
+      {
+        "id": 16,
+        "type": "freaky",
+        "question": "Have you ever had a sexual encounter with someone significantly older or younger than you? Share the details."
+      },
+      {
+        "id": 17,
+        "type": "freaky",
+        "question": "What is the wildest or most unusual location you have ever had sex?"
+      },
+      {
+        "id": 18,
+        "type": "freaky",
+        "question": "Have you ever engaged in role-playing or dress-up during sexual activities? Describe your favorite experience."
+      },
+      {
+        "id": 19,
+        "type": "freaky",
+        "question": "What is the most risqué or scandalous thing you have ever done to seduce someone?"
+      },
+      {
+        "id": 20,
+        "type": "freaky",
+        "question": "Have you ever had a sexual encounter with a stranger? Share the steamy details."
+      },
+      {
+        "id": 21,
+        "type": "freaky",
+        "question": "What is the most intense or mind-blowing orgasm you have ever given someone else?"
+      },
+      {
+        "id": 22,
+        "type": "freaky",
+        "question": "Have you ever engaged in a threesome with two people of the same gender? Describe your experience."
+      },
+      {
+        "id": 23,
+        "type": "freaky",
+        "question": "What is the most daring or risky sexual act you have ever attempted?"
+      },
+      {
+        "id": 24,
+        "type": "freaky",
+        "question": "Have you ever engaged in sexual activities involving bondage or restraints? Describe your experiences."
+      },
+      {
+        "id": 25,
+        "type": "freaky",
+        "question": "What is the most explicit or graphic sexual fantasy you have ever had?"
+      },
+      {
+        "id": 26,
+        "type": "freaky",
+        "question": "Have you ever had a sexual encounter in a public place where you could have been caught? Share the thrilling details."
+      },
+      {
+        "id": 27,
+        "type": "freaky",
+        "question": "What is the most unique or unconventional sex toy you have ever used?"
+      },
+      {
+        "id": 28,
+        "type": "freaky",
+        "question": "Have you ever experimented with BDSM activities involving pain or punishment? Describe your experiences."
+      },
+      {
+        "id": 29,
+        "type": "freaky",
+        "question": "What is the most explicit or erotic book, movie, or video you have ever enjoyed?"
+      },
+      {
+        "id": 30,
+        "type": "freaky",
+        "question": "Have you ever had a sexual encounter with someone while being watched by others? Share the details."
+      },
+      {
+        "id": 31,
+        "type": "freaky",
+        "question": "What is the weirdest or most unusual thing that turns you on?"
+      },
+      {
+        "id": 32,
+        "type": "freaky",
+        "question": "What is the kinkiest thing you've ever done in bed?"
+      },
+      {
+        "id": 33,
+        "type": "freaky",
+        "question": "Have you ever had a threesome? If not, would you like to have one?"
+      },
+      {
+        "id": 34,
+        "type": "freaky",
+        "question": "What is the dirtiest fantasy you've ever had?"
+      },
+      {
+        "id": 35,
+        "type": "freaky",
+        "question": "Have you ever had sex in a public place? If so, where?"
+      },
+      {
+        "id": 36,
+        "type": "freaky",
+        "question": "What is the most extreme sexual act you would be willing to try?"
+      },
+      {
+        "id": 37,
+        "type": "freaky",
+        "question": "Have you ever had a one night stand? If so, how many?"
+      },
+      {
+        "id": 38,
+        "type": "freaky",
+        "question": "Have you ever been attracted to someone of the same gender? If so, who?"
+      },
+      {
+        "id": 39,
+        "type": "freaky",
+        "question": "Have you ever watched or read porn at work or school?"
+      },
+      {
+        "id": 40,
+        "type": "freaky",
+        "question": "What is the most taboo sexual thing you've ever done?"
+      },
+      {
+        "id": 41,
+        "type": "freaky",
+        "question": "What is the most embarrassing thing that's ever happened to you during sex?"
+      },
+      {
+        "id": 42,
+        "type": "freaky",
+        "question": "Have you ever had a sexual experience with someone much older or younger than you? What happened?"
+      },
+      {
+        "id": 43,
+        "type": "freaky",
+        "question": "What is your secret sexual fetish that nobody else knows about?"
+      },
+      {
+        "id": 44,
+        "type": "freaky",
+        "question": "Have you ever cheated on your partner? If so, why?"
+      },
+      {
+        "id": 45,
+        "type": "freaky",
+        "question": "What is the craziest thing you've ever done to impress someone you're attracted to?"
+      },
+      {
+        "id": 46,
+        "type": "freaky",
+        "question": "Have you ever had a sexual encounter with someone you met online? Tell us about it."
+      },
+      {
+        "id": 47,
+        "type": "freaky",
+        "question": "What is the most unusual place you've masturbated?"
+      },
+      {
+        "id": 48,
+        "type": "freaky",
+        "question": "What is the naughtiest thing you've ever done in a public setting?"
+      },
+      {
+        "id": 49,
+        "type": "freaky",
+        "question": "Have you ever had a role-play or BDSM experience? Describe it."
+      },
+      {
+        "id": 50,
+        "type": "freaky",
+        "question": "What is the most adventurous sexual position or technique you've tried?"
+      },
+      {
+        "id": 51,
+        "type": "freaky",
+        "question": "Have you ever had a sexual encounter with more than one person at the same time? What was it like?"
+      },
+      {
+        "id": 52,
+        "type": "freaky",
+        "question": "What is the most explicit dream or fantasy you've had about someone you know?"
+      },
+      {
+        "id": 53,
+        "type": "freaky",
+        "question": "Have you ever engaged in a sexual act that you regretted afterward? What happened?"
+      },
+      {
+        "id": 54,
+        "type": "freaky",
+        "question": "What is the most scandalous secret you've kept from a past or current partner?"
+      },
+      {
+        "id": 55,
+        "type": "freaky",
+        "question": "Have you ever had a webcam or phone sex session with someone? Share the details."
+      },
+      {
+        "id": 56,
+        "type": "freaky",
+        "question": "What is the riskiest or most public place you've had sex?"
+      },
+      {
+        "id": 57,
+        "type": "freaky",
+        "question": "Have you ever fantasized about someone while being intimate with your partner? Who was it?"
+      },
+      {
+        "id": 58,
+        "type": "freaky",
+        "question": "What is the wildest sexual act or position you've ever attempted?"
+      },
+      {
+        "id": 59,
+        "type": "freaky",
+        "question": "Have you ever sent or received explicit photos or videos? Describe the experience."
+      },
+      {
+        "id": 60,
+        "type": "freaky",
+        "question": "What is the most daring or risky sexual challenge you've accepted?"
+      },
+      {
+        "id": 61,
+        "type": "freaky",
+        "question": "Have you ever fantasized about someone else while being intimate with your partner? Who was it?"
+      },
+      {
+        "id": 62,
+        "type": "freaky",
+        "question": "What is the kinkiest or most taboo sexual act you've ever engaged in with your partner?"
+      },
+      {
+        "id": 63,
+        "type": "freaky",
+        "question": "Have you ever had a threesome or group sex experience with your partner? Share the details."
+      },
+      {
+        "id": 64,
+        "type": "freaky",
+        "question": "What is the most adventurous or extreme sexual fantasy you've shared with your partner?"
+      },
+      {
+        "id": 65,
+        "type": "freaky",
+        "question": "Have you ever engaged in bondage or BDSM activities with your partner? How did it make you feel?"
+      },
+      {
+        "id": 66,
+        "type": "freaky",
+        "question": "What is the most intense or mind-blowing orgasm you've ever experienced with your partner?"
+      },
+      {
+        "id": 67,
+        "type": "freaky",
+        "question": "Have you ever watched or been watched by your partner while being intimate with someone else?"
+      },
+      {
+        "id": 68,
+        "type": "freaky",
+        "question": "What is the naughtiest or most forbidden location you've had sex with your partner?"
+      },
+      {
+        "id": 69,
+        "type": "freaky",
+        "question": "Have you ever used sex toys or accessories with your partner? What was your favorite experience?"
+      },
+      {
+        "id": 70,
+        "type": "freaky",
+        "question": "What is the most explicit or daring sexual act you've performed with your partner in a public setting?"
+      },
+      {
+        "id": 71,
+        "type": "freaky",
+        "question": "Have you ever engaged in role-play or acted out a specific fantasy with your partner? Describe it."
+      },
+      {
+        "id": 72,
+        "type": "freaky",
+        "question": "What is the most unusual or unconventional place you've made love to your partner?"
+      },
+      {
+        "id": 73,
+        "type": "freaky",
+        "question": "Have you ever engaged in shower or bathtub sex with your partner? How did it turn out?"
+      },
+      {
+        "id": 74,
+        "type": "freaky",
+        "question": "What is the most intense or taboo sexual act you've ever desired from your partner?"
+      },
+      {
+        "id": 75,
+        "type": "freaky",
+        "question": "Have you ever had a sexual encounter with your partner while others were watching? Share the details."
+      },
+      {
+        "id": 76,
+        "type": "freaky",
+        "question": "Have you ever fantasized about a specific fetish or kink that you haven't shared with your partner? What is it?"
+      },
+      {
+        "id": 77,
+        "type": "freaky",
+        "question": "What is the most explicit or X-rated movie you've watched with your partner? Did it turn you on?"
+      },
+      {
+        "id": 78,
+        "type": "freaky",
+        "question": "Have you ever engaged in a sexual act that pushed your boundaries or made you uncomfortable? Describe it."
+      },
+      {
+        "id": 79,
+        "type": "freaky",
+        "question": "What is the most forbidden or taboo role-play scenario you've imagined with your partner?"
+      },
+      {
+        "id": 80,
+        "type": "freaky",
+        "question": "Have you ever used restraints or tried sensory deprivation during intimate moments with your partner?"
+      },
+      {
+        "id": 81,
+        "type": "freaky",
+        "question": "What is the wildest or most daring sexual experience you've had with your partner?"
+      },
+      {
+        "id": 82,
+        "type": "freaky",
+        "question": "Have you ever explored or fantasized about voyeurism or exhibitionism with your partner? Share the details."
+      },
+      {
+        "id": 83,
+        "type": "freaky",
+        "question": "What is the most risqué or revealing outfit you've worn for your partner? How did they react?"
+      },
+      {
+        "id": 84,
+        "type": "freaky",
+        "question": "Have you ever engaged in sexual activities with your partner in a non-traditional or non-bedroom location? Where?"
+      },
+      {
+        "id": 85,
+        "type": "freaky",
+        "question": "What is the most intense or pleasurable sexual experience you've had with your partner?"
+      },
+      {
+        "id": 86,
+        "type": "freaky",
+        "question": "Have you ever engaged in light BDSM activities, such as spanking or role-playing, with your partner?"
+      },
+      {
+        "id": 87,
+        "type": "freaky",
+        "question": "What is the kinkiest or most unconventional sexual position or technique you've tried with your partner?"
+      },
+      {
+        "id": 88,
+        "type": "freaky",
+        "question": "Have you ever experimented with temperature play or sensory stimulation during sex? How was the experience?"
+      },
+      {
+        "id": 89,
+        "type": "freaky",
+        "question": "What is the most explicit or explicit sexual fantasy you've shared with your partner?"
+      },
+      {
+        "id": 90,
+        "type": "freaky",
+        "question": "Have you ever engaged in a sexual act that involved food, such as whipped cream or chocolate sauce?"
+      },
+      {
+        "id": 91,
+        "type": "freaky",
+        "question": "Have you ever used sex toys or other accessories during intimate moments with your partner? What was your favorite?"
+      },
+      {
+        "id": 92,
+        "type": "freaky",
+        "question": "What is the most explicit or graphic sexual dream you've had about your partner? Describe it in detail."
+      },
+      {
+        "id": 93,
+        "type": "freaky",
+        "question": "Have you ever engaged in role-reversal or gender-bending play with your partner? How did it make you feel?"
+      },
+      {
+        "id": 94,
+        "type": "freaky",
+        "question": "What is the most daring or risky place you've had sex with your partner? Share the location."
+      },
+      {
+        "id": 95,
+        "type": "freaky",
+        "question": "Have you ever incorporated erotic massage or sensual touch into your intimate moments with your partner?"
+      },
+      {
+        "id": 96,
+        "type": "freaky",
+        "question": "What is the naughtiest or most scandalous thing you've said to your partner during a sexual encounter?"
+      },
+      {
+        "id": 97,
+        "type": "freaky",
+        "question": "Have you ever explored or fantasized about dominant or submissive roles with your partner?"
+      },
+      {
+        "id": 98,
+        "type": "freaky",
+        "question": "What is the most adventurous or spontaneous sexual act you've initiated with your partner?"
+      },
+      {
+        "id": 99,
+        "type": "freaky",
+        "question": "Have you ever experimented with erotic photography or filming yourselves during intimate moments?"
+      },
+      {
+        "id": 100,
+        "type": "freaky",
+        "question": "What is the most intense or explosive orgasm you've experienced with your partner?"
+      },
+      {
+        "id": 101,
+        "type": "freaky",
+        "question": "Have you ever engaged in public displays of affection that crossed the line into explicit territory?"
+      },
+      {
+        "id": 102,
+        "type": "freaky",
+        "question": "What is the most alluring or seductive lingerie or underwear you've worn for your partner?"
+      },
+      {
+        "id": 103,
+        "type": "freaky",
+        "question": "Have you ever explored or fantasized about threesomes or group sex with your partner? Share your thoughts."
+      },
+      {
+        "id": 104,
+        "type": "freaky",
+        "question": "What is the most exhilarating or mind-blowing sexual experience you've had with your partner?"
+      },
+      {
+        "id": 105,
+        "type": "freaky",
+        "question": "Have you ever experimented with erotic storytelling or dirty talk during sexual encounters with your partner?"
+      },
+      {
+        "id": 106,
+        "type": "spicy",
+        "question": "Have you ever had a secret crush on someone in this group? Who was it?"
+      },
+      {
+        "id": 107,
+        "type": "spicy",
+        "question": "What is the wildest sexual experience you've ever had?"
+      },
+      {
+        "id": 108,
+        "type": "spicy",
+        "question": "What is the most daring place you've ever had sex?"
+      },
+      {
+        "id": 109,
+        "type": "spicy",
+        "question": "Have you ever cheated on a partner? If yes, share the details."
+      },
+      {
+        "id": 110,
+        "type": "spicy",
+        "question": "What is your biggest sexual fantasy?"
+      },
+      {
+        "id": 111,
+        "type": "spicy",
+        "question": "Have you ever used toys or props during solo or partnered sexual activities? Share the details."
+      },
+      {
+        "id": 112,
+        "type": "spicy",
+        "question": "What is the kinkiest thing you've ever done in bed?"
+      },
+      {
+        "id": 113,
+        "type": "spicy",
+        "question": "What is your favorite sexual position, and why?"
+      },
+      {
+        "id": 114,
+        "type": "spicy",
+        "question": "Have you ever had a one-night stand? Share the juiciest details."
+      },
+      {
+        "id": 115,
+        "type": "spicy",
+        "question": "What is the most memorable pickup line you've ever used or received?"
+      },
+      {
+        "id": 116,
+        "type": "spicy",
+        "question": "Have you ever sent or received explicit photos or videos? Share the story behind it."
+      },
+      {
+        "id": 117,
+        "type": "spicy",
+        "question": "What is your most embarrassing sexual moment?"
+      },
+      {
+        "id": 118,
+        "type": "spicy",
+        "question": "Have you ever had a threesome? If yes, share the experience and the people involved."
+      },
+      {
+        "id": 119,
+        "type": "spicy",
+        "question": "What is your favorite type of foreplay?"
+      },
+      {
+        "id": 120,
+        "type": "spicy",
+        "question": "What is the longest duration of time you've gone without sex?"
+      },
+      {
+        "id": 121,
+        "type": "spicy",
+        "question": "Have you ever had a friends-with-benefits arrangement? How did it go?"
+      },
+      {
+        "id": 122,
+        "type": "spicy",
+        "question": "What is the most unusual or unconventional place you've masturbated?"
+      },
+      {
+        "id": 123,
+        "type": "spicy",
+        "question": "Have you ever had a sexual encounter in a public setting? Share the details."
+      },
+      {
+        "id": 124,
+        "type": "spicy",
+        "question": "What is your favorite type of dirty talk during intimate moments?"
+      },
+      {
+        "id": 125,
+        "type": "spicy",
+        "question": "What is the most daring sexual dare you've ever completed?"
+      },
+      {
+        "id": 126,
+        "type": "spicy",
+        "question": "Have you ever experimented with bondage or BDSM? Share your experiences."
+      },
+      {
+        "id": 127,
+        "type": "spicy",
+        "question": "What is your opinion on open relationships or polyamory?"
+      },
+      {
+        "id": 128,
+        "type": "spicy",
+        "question": "Have you ever had a role-play or fantasy scenario in the bedroom? Describe it."
+      },
+      {
+        "id": 129,
+        "type": "spicy",
+        "question": "What is the most risqué or revealing outfit you've ever worn in public?"
+      },
+      {
+        "id": 130,
+        "type": "spicy",
+        "question": "Have you ever had a sexual encounter with someone significantly older or younger than you? Share the story."
+      },
+      {
+        "id": 131,
+        "type": "spicy",
+        "question": "What is the most adventurous sexual act you've ever attempted?"
+      },
+      {
+        "id": 132,
+        "type": "spicy",
+        "question": "Have you ever had a sexual experience that involved role reversal or power play?"
+      },
+      {
+        "id": 133,
+        "type": "spicy",
+        "question": "What is your favorite type of erotic literature or pornography?"
+      },
+      {
+        "id": 134,
+        "type": "spicy",
+        "question": "Have you ever had a sexual encounter in a vehicle? Share the details."
+      },
+      {
+        "id": 135,
+        "type": "spicy",
+        "question": "What is the most unusual or uncommon sexual skill or technique you possess?"
+      },
+      {
+        "id": 136,
+        "type": "spicy",
+        "question": "Have you ever had a one-night stand? Share the juiciest details."
+      },
+      {
+        "id": 137,
+        "type": "spicy",
+        "question": "What is the most daring or adventurous place you've ever had sex?"
+      },
+      {
+        "id": 138,
+        "type": "spicy",
+        "question": "Have you ever had a friends-with-benefits arrangement? Tell us about it."
+      },
+      {
+        "id": 139,
+        "type": "spicy",
+        "question": "What is your favorite position or technique for giving oral pleasure?"
+      },
+      {
+        "id": 140,
+        "type": "spicy",
+        "question": "Have you ever fantasized about someone who is in a committed relationship? Who was it?"
+      },
+      {
+        "id": 141,
+        "type": "spicy",
+        "question": "What is your opinion on open relationships or polyamory? Have you ever been in one?"
+      },
+      {
+        "id": 142,
+        "type": "spicy",
+        "question": "Have you ever experimented with BDSM or domination/submission play? Share your experiences."
+      },
+      {
+        "id": 143,
+        "type": "spicy",
+        "question": "What is the most public or risky place you've ever engaged in sexual activities?"
+      },
+      {
+        "id": 144,
+        "type": "spicy",
+        "question": "Have you ever used role-playing costumes or outfits in the bedroom? Describe your favorite."
+      },
+      {
+        "id": 145,
+        "type": "spicy",
+        "question": "What is your naughtiest secret that nobody in this group knows about?"
+      },
+      {
+        "id": 146,
+        "type": "spicy",
+        "question": "Have you ever engaged in threesome or group sex? Share the steamy details."
+      },
+      {
+        "id": 147,
+        "type": "spicy",
+        "question": "What is your opinion on sex toys? Have you ever used any?"
+      },
+      {
+        "id": 148,
+        "type": "spicy",
+        "question": "Have you ever engaged in sexting or sent explicit photos? Share your experiences."
+      },
+      {
+        "id": 149,
+        "type": "spicy",
+        "question": "What is the kinkiest or most taboo sexual act you've ever fantasized about?"
+      },
+      {
+        "id": 150,
+        "type": "spicy",
+        "question": "Have you ever had a sexual encounter in a public restroom? Share the details."
+      },
+      {
+        "id": 151,
+        "type": "spicy",
+        "question": "Have you ever had a romantic or sexual encounter with someone significantly older or younger than you? Share the story."
+      },
+      {
+        "id": 152,
+        "type": "spicy",
+        "question": "What is the most risqué or revealing outfit you've ever worn in public?"
+      },
+      {
+        "id": 153,
+        "type": "spicy",
+        "question": "Have you ever used a dating app or website for casual hookups? How was your experience?"
+      },
+      {
+        "id": 154,
+        "type": "spicy",
+        "question": "Have you ever been caught or walked in on during a sexual act? Describe the awkward situation."
+      },
+      {
+        "id": 155,
+        "type": "spicy",
+        "question": "What is the wildest sexual fantasy you've ever had? Paint us a vivid picture."
+      },
+      {
+        "id": 156,
+        "type": "spicy",
+        "question": "Have you ever engaged in phone or video sex? Share the details of your virtual encounter."
+      },
+      {
+        "id": 157,
+        "type": "spicy",
+        "question": "What is the most unique or unusual place you've ever masturbated?"
+      },
+      {
+        "id": 158,
+        "type": "spicy",
+        "question": "Have you ever had a sexy or naughty dream about someone in this group? Spill the details."
+      },
+      {
+        "id": 159,
+        "type": "spicy",
+        "question": "What is your opinion on using adult toys during partnered sexual activities?"
+      },
+      {
+        "id": 160,
+        "type": "spicy",
+        "question": "Have you ever had a secret affair or cheated on your partner? Share your story."
+      },
+      {
+        "id": 161,
+        "type": "spicy",
+        "question": "What is the most explicit or NSFW video or website you've ever watched?"
+      },
+      {
+        "id": 162,
+        "type": "spicy",
+        "question": "Have you ever engaged in a sexual act in a vehicle? Share the exciting details."
+      },
+      {
+        "id": 163,
+        "type": "spicy",
+        "question": "What is the most scandalous or intimate text message you've ever sent or received?"
+      },
+      {
+        "id": 164,
+        "type": "spicy",
+        "question": "Have you ever been attracted to someone of the same gender? Share your experiences."
+      },
+      {
+        "id": 165,
+        "type": "spicy",
+        "question": "What is your opinion on public displays of affection? Have you ever engaged in one?"
+      }
+    ],
+    
+    "dares": [
+      {
+        "id": 1,
+        "type": "casual",
+        "task": "Sing a song in front of everyone"
+      },
+      {
+        "id": 2,
+        "type": "casual",
+        "task": "Do 20 jumping jacks"
+      },
+      {
+        "id": 3,
+        "type": "casual",
+        "task": "Give someone in the group a piggyback ride"
+      },
+      {
+        "id": 4,
+        "type": "casual",
+        "task": "Put an ice cube down your shirt and keep it there for 30 seconds"
+      },
+      {
+        "id": 5,
+        "type": "casual",
+        "task": "Do your best impression of a celebrity"
+      },
+      {
+        "id": 6,
+        "type": "casual",
+        "task": "Tell a joke and make everyone laugh"
+      },
+      {
+        "id": 7,
+        "type": "casual",
+        "task": "Do a cartwheel or somersault"
+      },
+      {
+        "id": 8,
+        "type": "casual",
+        "task": "Call your crush and tell them how you feel"
+      },
+      {
+        "id": 9,
+        "type": "casual",
+        "task": "Do a silly dance for 1 minute"
+      },
+      {
+        "id": 10,
+        "type": "casual",
+        "task": "Eat a spoonful of cinnamon"
+      },
+      {
+        "id": 11,
+        "type": "casual",
+        "task": "Wear your shirt inside out for the rest of the game"
+      },
+      {
+        "id": 12,
+        "type": "casual",
+        "task": "Speak in a British accent for the rest of the game"
+      },
+      {
+        "id": 13,
+        "type": "casual",
+        "task": "Give someone a compliment"
+      },
+      {
+        "id": 14,
+        "type": "casual",
+        "task": "Take a selfie with a silly face"
+      },
+      {
+        "id": 15,
+        "type": "casual",
+        "task": "Text your parents 'I love you' without any context"
+      },
+      {
+        "id": 16,
+        "type": "casual",
+        "task": "Do the chicken dance for one minute"
+      },
+      {
+        "id": 17,
+        "type": "casual",
+        "task": "Give a piggyback ride to someone for one lap around the room"
+      },
+      {
+        "id": 18,
+        "type": "casual",
+        "task": "Speak in a fake accent for the next 10 minutes"
+      },
+      {
+        "id": 19,
+        "type": "casual",
+        "task": "Do a handstand against the wall for as long as you can"
+      },
+      {
+        "id": 20,
+        "type": "casual",
+        "task": "Eat a spoonful of hot sauce"
+      },
+      {
+        "id": 21,
+        "type": "freaky",
+        "task": "Blindfold your partner and engage in sensory exploration."
+      },
+      {
+        "id": 22,
+        "type": "freaky",
+        "task": "Experiment with light bondage and restrain your partner."
+      },
+      {
+        "id": 23,
+        "type": "freaky",
+        "task": "Drip hot wax onto your partner's body and experience the sensations."
+      },
+      {
+        "id": 24,
+        "type": "freaky",
+        "task": "Engage in a steamy make-out session in the shower and explore each other's bodies."
+      },
+      {
+        "id": 25,
+        "type": "freaky",
+        "task": "Give your partner an erotic massage with scented oils."
+      },
+      {
+        "id": 26,
+        "type": "freaky",
+        "task": "Introduce a sex toy into your intimate activities and explore new sensations."
+      },
+      {
+        "id": 27,
+        "type": "freaky",
+        "task": "Engage in spanking or dominance play to experience power dynamics."
+      },
+      {
+        "id": 28,
+        "type": "freaky",
+        "task": "Switch roles and explore dominant and submissive roles with your partner."
+      },
+      {
+        "id": 29,
+        "type": "freaky",
+        "task": "Read explicit literature together and act out a scene."
+      },
+      {
+        "id": 30,
+        "type": "freaky",
+        "task": "Try a new sexual position or technique for maximum pleasure."
+      },
+      {
+        "id": 31,
+        "type": "freaky",
+        "task": "Use edible items to tease and please each other in a sensual way."
+      },
+      {
+        "id": 32,
+        "type": "freaky",
+        "task": "Create your own intimate game with daring challenges and rewards."
+      },
+      {
+        "id": 33,
+        "type": "freaky",
+        "task": "Engage in voyeurism or exhibitionism in a private and consensual setting."
+      },
+      {
+        "id": 34,
+        "type": "freaky",
+        "task": "Indulge in extended foreplay and build up anticipation before moving to the next level."
+      },
+      {
+        "id": 35,
+        "type": "freaky",
+        "task": "Try light spanking to explore new sensations and heighten pleasure."
+      },
+      {
+        "id": 36,
+        "type": "freaky",
+        "task": "Experiment with orgasm control or denial for an intensified experience."
+      },
+      {
+        "id": 37,
+        "type": "freaky",
+        "task": "Explore anal play with proper preparation and communication."
+      },
+      {
+        "id": 38,
+        "type": "freaky",
+        "task": "Engage in erotic power exchange through role-playing as a dominant or submissive."
+      },
+      {
+        "id": 39,
+        "type": "freaky",
+        "task": "Have a sensual and passionate outdoor rendezvous under the moonlight."
+      },
+      {
+        "id": 40,
+        "type": "freaky",
+        "task": "Explore a new kink or fetish together and incorporate it into your intimate play."
+      },
+      {
+        "id": 41,
+        "type": "freaky",
+        "task": "Engage in temperature play using ice and heat packs on each other's bodies."
+      },
+      {
+        "id": 42,
+        "type": "freaky",
+        "task": "Experiment with mutual masturbation while maintaining intense eye contact."
+      },
+      {
+        "id": 43,
+        "type": "freaky",
+        "task": "Try bondage with intricate rope work and intricate knots."
+      },
+      {
+        "id": 44,
+        "type": "freaky",
+        "task": "Explore the world of tantric sex and engage in prolonged and intimate lovemaking sessions."
+      },
+      {
+        "id": 45,
+        "type": "freaky",
+        "task": "Engage in a sexually charged role-play scenario with costumes and props."
+      },
+      {
+        "id": 46,
+        "type": "freaky",
+        "task": "Indulge in a session of mutual body worship, exploring every inch of each other's bodies."
+      },
+      {
+        "id": 47,
+        "type": "freaky",
+        "task": "Experiment with erotic breath play and sensual choking under safe and consensual conditions."
+      },
+      {
+        "id": 48,
+        "type": "freaky",
+        "task": "Try a double penetration experience using sex toys designed for couples."
+      },
+      {
+        "id": 49,
+        "type": "freaky",
+        "task": "Engage in an intense and passionate quickie in a public place while maintaining discretion."
+      },
+      {
+        "id": 50,
+        "type": "freaky",
+        "task": "Explore power dynamics through pet play, with one partner taking on the role of a pet and the other as the handler."
+      },
+      {
+        "id": 51,
+        "type": "freaky",
+        "task": "Engage in a voyeuristic experience by watching or being watched while engaging in sexual activities."
+      },
+      {
+        "id": 52,
+        "type": "freaky",
+        "task": "Experiment with edging and orgasm control, pushing each other to the brink of climax repeatedly."
+      },
+      {
+        "id": 53,
+        "type": "freaky",
+        "task": "Indulge in erotic hypnosis or guided meditation to enhance pleasure and explore the depths of your desires."
+      },
+      {
+        "id": 54,
+        "type": "freaky",
+        "task": "Play a game of 'Truth or Dare' with a naughty twist. Each truth reveals a steamy secret, and each dare involves a sensual act."
+      },
+      {
+        "id": 55,
+        "type": "freaky",
+        "task": "Engage in a naughty scavenger hunt, where you leave clues and challenges for each other to find and complete."
+      },
+      {
+        "id": 56,
+        "type": "freaky",
+        "task": "Try a game of 'Strip Twister' where each missed move results in the removal of clothing."
+      },
+      {
+        "id": 57,
+        "type": "freaky",
+        "task": "Play 'Seven Minutes in Heaven' and use the time to explore each other's bodies and indulge in passionate kisses."
+      },
+      {
+        "id": 58,
+        "type": "freaky",
+        "task": "Create a 'Pleasure Wheel' with various activities written on it, such as oral pleasure, massage, or role-playing. Spin the wheel and indulge in the chosen activity."
+      },
+      {
+        "id": 59,
+        "type": "freaky",
+        "task": "Engage in a game of 'Strip Poker' with a twist. Each time someone loses a hand, they have to perform a sensual act on their partner."
+      },
+      {
+        "id": 60,
+        "type": "freaky",
+        "task": "Try 'Blindfolded Taste Test' where one partner blindfolds the other and feeds them various sensual treats, guessing each one."
+      },
+      {
+        "id": 61,
+        "type": "freaky",
+        "task": "Play 'Body Shot Roulette' by lining up shot glasses on each other's bodies and taking turns licking off the shots."
+      },
+      {
+        "id": 62,
+        "type": "freaky",
+        "task": "Engage in a game of 'Sensual Dice' where each side of the dice represents a different act or body part to explore."
+      },
+      {
+        "id": 63,
+        "type": "freaky",
+        "task": "Create your own 'Sexual Bucket List' by writing down different sexual acts, positions, or fantasies. Take turns picking an item from the list and fulfilling it."
+      },
+      {
+        "id": 64,
+        "type": "freaky",
+        "task": "Try 'Body Painting' where you use edible body paint to decorate each other's bodies and then indulge in licking and kissing the artwork."
+      },
+      {
+        "id": 65,
+        "type": "freaky",
+        "task": "Engage in a game of 'Role-Play Charades' where you act out different erotic scenarios or fantasies and try to guess each other's roles."
+      },
+      {
+        "id": 66,
+        "type": "freaky",
+        "task": "Play 'Striptease Challenge' by taking turns performing sexy stripteases for each other, trying to outdo each other with seductive moves."
+      },
+      {
+        "id": 67,
+        "type": "freaky",
+        "task": "Try 'Temperature Play' by using ice cubes and warm massage oils to tease and tantalize each other's bodies."
+      },
+      {
+        "id": 68,
+        "type": "spicy",
+        "task": "Give a lap dance to the person on your right."
+      },
+      {
+        "id": 69,
+        "type": "spicy",
+        "task": "Take a body shot off someone in the group."
+      },
+      {
+        "id": 70,
+        "type": "spicy",
+        "task": "Exchange a passionate kiss with the person sitting opposite to you."
+      },
+      {
+        "id": 71,
+        "type": "spicy",
+        "task": "Remove one article of clothing and wear it for the rest of the game."
+      },
+      {
+        "id": 72,
+        "type": "spicy",
+        "task": "Perform a sexy dance routine for the group."
+      },
+      {
+        "id": 73,
+        "type": "spicy",
+        "task": "Give a sensual massage to the person on your left."
+      },
+      {
+        "id": 74,
+        "type": "spicy",
+        "task": "Whisper a dirty secret to the person next to you."
+      },
+      {
+        "id": 75,
+        "type": "spicy",
+        "task": "Seduce someone in the group using only your words."
+      },
+      {
+        "id": 76,
+        "type": "spicy",
+        "task": "Engage in a steamy make-out session with the person of your choice."
+      },
+      {
+        "id": 77,
+        "type": "spicy",
+        "task": "Strip down to your underwear and parade around the room."
+      },
+      {
+        "id": 78,
+        "type": "spicy",
+        "task": "Play a round of strip poker with the group."
+      },
+      {
+        "id": 79,
+        "type": "spicy",
+        "task": "Take a provocative selfie and send it to a random contact in your phone."
+      },
+      {
+        "id": 80,
+        "type": "spicy",
+        "task": "Roleplay a seductive scenario with a partner of your choice."
+      },
+      {
+        "id": 81,
+        "type": "spicy",
+        "task": "Give a lap dance to the person on your left while blindfolded."
+      },
+      {
+        "id": 82,
+        "type": "spicy",
+        "task": "Engage in a passionate kiss with the person you find most attractive in the room."
+      },
+      {
+        "id": 83,
+        "type": "spicy",
+        "task": "Give a body shot to the person of your choice."
+      },
+      {
+        "id": 84,
+        "type": "spicy",
+        "task": "Exchange clothes with someone in the group and wear them for the rest of the game."
+      },
+      {
+        "id": 85,
+        "type": "spicy",
+        "task": "Whisper a seductive fantasy into the ear of the person next to you."
+      },
+      {
+        "id": 86,
+        "type": "spicy",
+        "task": "Play a round of Truth or Dare with a naughty twist."
+      },
+      {
+        "id": 87,
+        "type": "spicy",
+        "task": "Give a tantalizing strip tease to the person on your right."
+      },
+      {
+        "id": 88,
+        "type": "spicy",
+        "task": "Have a sensual make-out session with the person you've had a secret crush on."
+      },
+      {
+        "id": 89,
+        "type": "spicy",
+        "task": "Engage in a game of Seven Minutes in Heaven with the person you find most attractive."
+      },
+      {
+        "id": 90,
+        "type": "spicy",
+        "task": "Share a passionate kiss with the person sitting closest to you."
+      },
+      {
+        "id": 91,
+        "type": "spicy",
+        "task": "Give a lap dance to the person you've known the shortest amount of time."
+      },
+      {
+        "id": 92,
+        "type": "spicy",
+        "task": "Play a seductive game of Never Have I Ever with a naughty twist."
+      },
+      {
+        "id": 93,
+        "type": "spicy",
+        "task": "Exchange a deep, passionate kiss with the person who has the most attractive lips."
+      },
+      {
+        "id": 94,
+        "type": "spicy",
+        "task": "Take a body shot off the person you're most attracted to."
+      },
+      {
+        "id": 95,
+        "type": "spicy",
+        "task": "Engage in a naughty truth or dare challenge with the person you find most intriguing."
+      },
+      {
+        "id": 96,
+        "type": "spicy",
+        "task": "Perform a sensual dance routine for the person of your choice."
+      },
+      {
+        "id": 97,
+        "type": "spicy",
+        "task": "Whisper a dirty secret into the ear of the person you've always wanted to hook up with."
+      },
+      {
+        "id": 98,
+        "type": "spicy",
+        "task": "Give a sensual massage to the person of your choice for five minutes."
+      },
+      {
+        "id": 99,
+        "type": "spicy",
+        "task": "Play a round of Spin the Bottle with a twist – whoever the bottle lands on, you have to share a passionate kiss."
+      },
+      {
+        "id": 100,
+        "type": "spicy",
+        "task": "Take a body shot off the person you're most attracted to, but use a unique ingredient like whipped cream or chocolate syrup."
+      },
+      {
+        "id": 101,
+        "type": "spicy",
+        "task": "Give a lap dance to the person who can do the best dance move."
+      },
+      {
+        "id": 102,
+        "type": "spicy",
+        "task": "Play a naughty version of Two Truths and a Lie where the truths are sexy and the lie is something innocent."
+      },
+      {
+        "id": 103,
+        "type": "spicy",
+        "task": "Perform a sexy striptease for the group, leaving just enough clothes on to keep it teasing."
+      },
+      {
+        "id": 104,
+        "type": "spicy",
+        "task": "Share a passionate kiss with the person who has the most attractive eyes."
+      },
+      {
+        "id": 105,
+        "type": "spicy",
+        "task": "Play a game of Body Shots where each person takes a shot off a different body part."
+      },
+      {
+        "id": 106,
+        "type": "spicy",
+        "task": "Have a steamy make-out session in a closet with the person you've been secretly eyeing all night."
+      },
+      {
+        "id": 107,
+        "type": "spicy",
+        "task": "Take turns giving each other sensual massages with warm massage oil."
+      },
+      {
+        "id": 108,
+        "type": "spicy",
+        "task": "Play a round of Strip Poker and let the stakes get higher with each hand."
+      },
+      {
+        "id": 109,
+        "type": "spicy",
+        "task": "Whisper a seductive fantasy into the ear of the person you find most attractive."
+      },
+      {
+        "id": 110,
+        "type": "spicy",
+        "task": "Perform a lap dance for the person you've known the shortest amount of time."
+      },
+      {
+        "id": 111,
+        "type": "spicy",
+        "task": "Play a game of Dirty Jenga where each block has a naughty dare written on it."
+      },
+      {
+        "id": 112,
+        "type": "spicy",
+        "task": "Share a passionate kiss with the person you've been flirting with all night."
+      },
+      {
+        "id": 112,
+        "type": "spicy",
+        "task": "Engage in a steamy make-out session in a public place, trying not to get caught."
+      },
+      {
+        "id": 113,
+        "type": "spicy",
+        "task": "Experiment with light bondage and indulge in some kinky role-playing with your partner."
+      },
+      {
+        "id": 114,
+        "type": "spicy",
+        "task": "Explore sensory deprivation by blindfolding your partner and teasing them with different sensations."
+      },
+      {
+        "id": 115,
+        "type": "spicy",
+        "task": "Engage in a threesome or group experience, exploring new boundaries and pleasures."
+      },
+      {
+        "id": 116,
+        "type": "spicy",
+        "task": "Try out some temperature play by using ice cubes or hot wax on each other's bodies."
+      },
+      {
+        "id": 117,
+        "type": "spicy",
+        "task": "Indulge in some light spanking or impact play, exploring the realm of pain and pleasure."
+      },
+      {
+        "id": 118,
+        "type": "spicy",
+        "task": "Experiment with role reversal, where you and your partner take turns being dominant and submissive."
+      },
+      {
+        "id": 119,
+        "type": "spicy",
+        "task": "Engage in an intense and passionate make-out session with biting and scratching."
+      },
+      {
+        "id": 120,
+        "type": "spicy",
+        "task": "Try out a new sex toy or accessory, adding an extra element of pleasure and excitement."
+      },
+      {
+        "id": 121,
+        "type": "spicy",
+        "task": "Explore public exhibitionism by engaging in sexual acts in a semi-public place."
+      },
+      {
+        "id": 122,
+        "type": "spicy",
+        "task": "Engage in some intense role-playing, exploring different fantasies and scenarios."
+      },
+      {
+        "id": 123,
+        "type": "spicy",
+        "task": "Experiment with anal play, using toys or engaging in anal sex for an added level of pleasure."
+      },
+      {
+        "id": 124,
+        "type": "spicy",
+        "task": "Try out some erotic food play, using edible items to tease and please each other."
+      },
+      {
+        "id": 125,
+        "type": "spicy",
+        "task": "Engage in some dirty talk and explore your deepest fantasies with your partner."
+      },
+      {
+        "id": 126,
+        "type": "spicy",
+        "task": "Explore the world of BDSM by incorporating elements of bondage, discipline, and submission."
+      },
+      {
+        "id": 127,
+        "type": "casual",
+        "task": "Start a spontaneous dance party in a public place and get others to join in."
+      },
+      {
+        "id": 128,
+        "type": "casual",
+        "task": "Organize a game night with friends and play a variety of fun and competitive board games."
+      },
+      {
+        "id": 129,
+        "type": "casual",
+        "task": "Create a DIY obstacle course in your backyard or local park and challenge your friends to complete it."
+      },
+      {
+        "id": 130,
+        "type": "casual",
+        "task": "Host a themed costume party and encourage everyone to dress up and get into character."
+      },
+      {
+        "id": 131,
+        "type": "casual",
+        "task": "Go on a scavenger hunt around your neighborhood or city with a group of friends."
+      },
+      {
+        "id": 132,
+        "type": "casual",
+        "task": "Plan a potluck dinner where each person brings a unique dish to share with the group."
+      },
+      {
+        "id": 133,
+        "type": "casual",
+        "task": "Organize a karaoke night and have each person take turns singing their favorite songs."
+      },
+      {
+        "id": 134,
+        "type": "casual",
+        "task": "Create your own DIY outdoor movie theater and have a movie night under the stars."
+      },
+      {
+        "id": 135,
+        "type": "casual",
+        "task": "Host a DIY pizza night where everyone gets to create their own personalized pizzas."
+      },
+      {
+        "id": 136,
+        "type": "casual",
+        "task": "Arrange a friendly sports tournament with games like soccer, basketball, or volleyball."
+      },
+      {
+        "id": 137,
+        "type": "casual",
+        "task": "Plan a group hike to a scenic location and enjoy the beauty of nature together."
+      },
+      {
+        "id": 138,
+        "type": "casual",
+        "task": "Organize a themed photo shoot with props and costumes and capture fun and memorable moments."
+      },
+      {
+        "id": 139,
+        "type": "casual",
+        "task": "Host a DIY cocktail-making party and have each person invent their own signature drink."
+      },
+      {
+        "id": 140,
+        "type": "casual",
+        "task": "Arrange a group camping trip and spend a night under the stars, telling stories and enjoying nature."
+      },
+      {
+        "id": 141,
+        "type": "casual",
+        "task": "Organize a group painting session where everyone can unleash their creativity on canvases."
+      },
+      {
+        "id": 142,
+        "type": "casual",
+        "task": "Host a game of charades and have everyone act out different movies, songs, or phrases."
+      },
+      {
+        "id": 143,
+        "type": "casual",
+        "task": "Organize a themed potluck dinner where each person brings a dish from a specific country or culture."
+      },
+      {
+        "id": 144,
+        "type": "casual",
+        "task": "Plan a group bike ride or rollerblading adventure and explore a scenic route together."
+      },
+      {
+        "id": 145,
+        "type": "casual",
+        "task": "Arrange a DIY spa day with homemade face masks, manicures, and relaxing massages."
+      },
+      {
+        "id": 146,
+        "type": "casual",
+        "task": "Host a DIY craft night and create unique and personalized items like friendship bracelets or dreamcatchers."
+      },
+      {
+        "id": 147,
+        "type": "casual",
+        "task": "Organize a group workout session, such as a fun dance class or outdoor fitness challenge."
+      },
+      {
+        "id": 148,
+        "type": "casual",
+        "task": "Plan a group picnic in a local park or beach and enjoy delicious food and outdoor games."
+      },
+      {
+        "id": 149,
+        "type": "casual",
+        "task": "Host a DIY ice cream sundae bar and let everyone create their own delicious dessert creations."
+      },
+      {
+        "id": 150,
+        "type": "casual",
+        "task": "Arrange a group cooking challenge where each team prepares a dish with mystery ingredients."
+      },
+      {
+        "id": 151,
+        "type": "casual",
+        "task": "Plan a group visit to an escape room and test your problem-solving skills together."
+      },
+      {
+        "id": 152,
+        "type": "casual",
+        "task": "Organize a group yoga or meditation session to relax, unwind, and promote well-being."
+      },
+      {
+        "id": 153,
+        "type": "casual",
+        "task": "Host a DIY backyard carnival with games like ring toss, bean bag toss, and face painting."
+      },
+      {
+        "id": 154,
+        "type": "casual",
+        "task": "Arrange a group visit to a trampoline park and bounce, flip, and have fun together."
+      },
+      {
+        "id": 155,
+        "type": "casual",
+        "task": "Plan a group outing to a local amusement park or water park for an adrenaline-filled day."
+      },
+      {
+        "id": 156,
+        "type": "casual",
+        "task": "Organize a group baking competition and see who can create the most delicious and creative dessert."
+      },
+      {
+        "id": 171,
+        "type": "casual",
+        "task": "Play a round of 'Truth or Dare' where all the dares are performed blindfolded."
+      },
+      {
+        "id": 172,
+        "type": "casual",
+        "task": "Have a spicy food challenge where each person tries progressively hotter and spicier foods."
+      },
+      {
+        "id": 173,
+        "type": "casual",
+        "task": "Create a dance routine together and perform it in a public place or at a friend's gathering."
+      },
+      {
+        "id": 174,
+        "type": "casual",
+        "task": "Play a prank call challenge where each person has to make a hilarious prank call to a random number."
+      },
+      {
+        "id": 175,
+        "type": "casual",
+        "task": "Go skinny-dipping in a nearby lake or secluded swimming spot during the night."
+      },
+      {
+        "id": 176,
+        "type": "casual",
+        "task": "Have a karaoke contest and sing your favorite songs with passion and enthusiasm."
+      },
+      {
+        "id": 177,
+        "type": "casual",
+        "task": "Play a game of 'Spin the Bottle' and follow through with the dares without hesitation."
+      },
+      {
+        "id": 178,
+        "type": "casual",
+        "task": "Host a 'Chopped' style cooking challenge where each team has to create a dish using mystery ingredients."
+      },
+      {
+        "id": 179,
+        "type": "casual",
+        "task": "Play a round of 'Never Have I Ever' and be honest about your experiences and adventures."
+      },
+      {
+        "id": 180,
+        "type": "casual",
+        "task": "Create a DIY haunted house in someone's basement and challenge each other to make it through."
+      },
+      {
+        "id": 181,
+        "type": "casual",
+        "task": "Go on a late-night adventure and explore a local urban legend or haunted location."
+      },
+      {
+        "id": 182,
+        "type": "casual",
+        "task": "Have a 'Dare or Dare' challenge where every dare is spicy and must be completed by each participant."
+      },
+      {
+        "id": 183,
+        "type": "casual",
+        "task": "Play a game of 'Seven Minutes in Heaven' and see what surprises await in the confined space."
+      },
+      {
+        "id": 184,
+        "type": "casual",
+        "task": "Create a DIY slip and slide in your backyard and challenge each other to daring and hilarious slides."
+      },
+      {
+        "id": 185,
+        "type": "casual",
+        "task": "Host a blindfolded taste test challenge with unusual and unexpected food combinations."
+      },
+      {
+        "id": 201,
+        "type": "spicy",
+        "task": "Give a lap dance to a random person in the group."
+      },
+      {
+        "id": 202,
+        "type": "spicy",
+        "task": "Do a body shot off another player's stomach."
+      },
+      {
+        "id": 203,
+        "type": "spicy",
+        "task": "Perform a striptease or burlesque routine for the group."
+      },
+      {
+        "id": 204,
+        "type": "spicy",
+        "task": "Kiss another player passionately for at least 30 seconds."
+      },
+      {
+        "id": 205,
+        "type": "spicy",
+        "task": "Give a sensual massage to another player for five minutes."
+      },
+      {
+        "id": 206,
+        "type": "spicy",
+        "task": "Exchange clothing items with another player and wear them for the rest of the game."
+      },
+      {
+        "id": 207,
+        "type": "spicy",
+        "task": "Simulate a romantic date with another player, complete with candlelight and sweet gestures."
+      },
+      {
+        "id": 208,
+        "type": "spicy",
+        "task": "Whisper a naughty secret or fantasy into the ear of another player."
+      },
+      {
+        "id": 209,
+        "type": "spicy",
+        "task": "Give a lap dance to someone of the same gender."
+      },
+      {
+        "id": 210,
+        "type": "spicy",
+        "task": "Share a steamy make-out session with another player for one minute."
+      },
+      {
+        "id": 211,
+        "type": "spicy",
+        "task": "Give a love bite or hickey to another player in a visible spot."
+      },
+      {
+        "id": 212,
+        "type": "spicy",
+        "task": "Perform a seductive strip tease while keeping eye contact with another player."
+      },
+      {
+        "id": 213,
+        "type": "spicy",
+        "task": "Engage in a passionate make-out session with another player for two minutes."
+      },
+      {
+        "id": 214,
+        "type": "spicy",
+        "task": "Use whipped cream or chocolate syrup to create a provocative design on another player's body and lick it off."
+      },
+      {
+        "id": 215,
+        "type": "spicy",
+        "task": "Roleplay a sensual scene with another player, complete with seductive dialogue and actions."
+      },
+      {
+        "id": 216,
+        "type": "freaky",
+        "task": "Engage in roleplay as strangers meeting in a bar and escalate the encounter to a passionate encounter."
+      },
+      {
+        "id": 217,
+        "type": "freaky",
+        "task": "Explore light BDSM activities, such as using handcuffs or blindfolds."
+      },
+      {
+        "id": 218,
+        "type": "freaky",
+        "task": "Experiment with temperature play by using ice cubes or warm wax on each other's bodies."
+      },
+      {
+        "id": 219,
+        "type": "freaky",
+        "task": "Have a threesome fantasy discussion and share your wildest desires with each other."
+      },
+      {
+        "id": 220,
+        "type": "freaky",
+        "task": "Introduce sex toys into your intimate activities and explore new sensations together."
+      },
+      {
+        "id": 221,
+        "type": "freaky",
+        "task": "Try out different erotic positions or techniques from the Kama Sutra."
+      },
+      {
+        "id": 222,
+        "type": "freaky",
+        "task": "Engage in role reversal where one person takes on the dominant role and the other submits to their desires."
+      },
+      {
+        "id": 223,
+        "type": "freaky",
+        "task": "Explore exhibitionism by engaging in intimate activities in a semi-public place."
+      },
+      {
+        "id": 224,
+        "type": "freaky",
+        "task": "Engage in a sensual massage using edible massage oils and explore each other's erogenous zones."
+      },
+      {
+        "id": 225,
+        "type": "freaky",
+        "task": "Try out light spanking or impact play to explore power dynamics and heightened sensations."
+      },
+      {
+        "id": 226,
+        "type": "freaky",
+        "task": "Experiment with sensory deprivation by blindfolding and restraining each other."
+      },
+      {
+        "id": 227,
+        "type": "freaky",
+        "task": "Engage in dirty talk and describe your deepest, naughtiest fantasies to each other."
+      },
+      {
+        "id": 228,
+        "type": "freaky",
+        "task": "Introduce food into your intimate activities and feed each other sensually."
+      },
+      {
+        "id": 229,
+        "type": "freaky",
+        "task": "Explore roleplay scenarios such as doctor-patient, teacher-student, or boss-employee."
+      },
+      {
+        "id": 230,
+        "type": "freaky",
+        "task": "Experiment with light bondage using silk scarves or restraints to heighten anticipation and pleasure."
+      },
+      {
+        "id": 231,
+        "type": "freaky",
+        "task": "Indulge in a naughty roleplay scenario, such as a boss and secretary or a doctor and patient."
+      },
+      {
+        "id": 232,
+        "type": "freaky",
+        "task": "Try out a BDSM scene, exploring power dynamics, bondage, impact play, or other kinky elements."
+      },
+      {
+        "id": 233,
+        "type": "freaky",
+        "task": "Experiment with temperature play using hot and cold sensations, like dripping wax or ice cubes, on each other's bodies."
+      },
+      {
+        "id": 234,
+        "type": "freaky",
+        "task": "Engage in outdoor or public play, finding discreet and thrilling locations for intimate encounters."
+      },
+      {
+        "id": 235,
+        "type": "freaky",
+        "task": "Explore the world of erotic massage, incorporating sensual oils and seductive touch to stimulate each other's senses."
+      },
+      {
+        "id": 236,
+        "type": "freaky",
+        "task": "Try out a threesome or group play with consenting adults to indulge in new sexual experiences together."
+      },
+      {
+        "id": 237,
+        "type": "freaky",
+        "task": "Experiment with food play, using whipped cream, chocolate sauce, or other edible treats to explore sensory pleasure."
+      },
+      {
+        "id": 238,
+        "type": "freaky",
+        "task": "Introduce light BDSM elements like spanking, hair-pulling, or nipple clamps for heightened sensations."
+      },
+      {
+        "id": 239,
+        "type": "freaky",
+        "task": "Engage in a sexy photoshoot together, capturing intimate moments and creating lasting memories."
+      },
+      {
+        "id": 240,
+        "type": "freaky",
+        "task": "Try out voyeurism or exhibitionism by engaging in sexual activities while being watched or watching others."
+      },
+      {
+        "id": 241,
+        "type": "freaky",
+        "task": "Experiment with sex toys like vibrators, dildos, or bondage gear to enhance pleasure and exploration."
+      },
+      {
+        "id": 242,
+        "type": "freaky",
+        "task": "Indulge in a steamy and passionate make-out session in a public place, savoring the thrill of being discreetly naughty."
+      },
+      {
+        "id": 243,
+        "type": "freaky",
+        "task": "Try out a sexy and seductive lap dance for your partner, teasing and tantalizing their senses."
+      },
+      {
+        "id": 244,
+        "type": "freaky",
+        "task": "Explore erotic literature or audio together, using sexy stories or recordings to set the mood and ignite fantasies."
+      },
+      {
+        "id": 245,
+        "type": "freaky",
+        "task": "Engage in a sexual challenge, such as seeing who can pleasure the other first or trying out new positions."
+      },
+      {
+        "id": 246,
+        "type": "freaky",
+        "task": "Engage in a steamy shower session together, exploring each other's bodies under the warm water."
+      },
+      {
+        "id": 247,
+        "type": "freaky",
+        "task": "Role-reversal night: Let your partner take control and dominate you in the bedroom."
+      },
+      {
+        "id": 248,
+        "type": "freaky",
+        "task": "Try a strip-tease performance for your partner, slowly removing your clothing and teasing their desires."
+      },
+      {
+        "id": 249,
+        "type": "freaky",
+        "task": "Experiment with light bondage, using silk ties or handcuffs to restrain and heighten the anticipation."
+      },
+      {
+        "id": 250,
+        "type": "freaky",
+        "task": "Explore anal play, using toys or gentle exploration to experience new sensations and pleasures."
+      },
+      {
+        "id": 251,
+        "type": "freaky",
+        "task": "Indulge in a sensual and erotic game of truth or dare with questions and challenges of increasing intensity."
+      },
+      {
+        "id": 252,
+        "type": "freaky",
+        "task": "Experiment with role-playing as strangers who meet in a bar or any other exciting scenario."
+      },
+      {
+        "id": 253,
+        "type": "freaky",
+        "task": "Have a session of intense edging, bringing each other to the edge of orgasm repeatedly without climaxing."
+      },
+      {
+        "id": 254,
+        "type": "freaky",
+        "task": "Try out a sex swing or other sex furniture to explore new positions and angles of pleasure."
+      },
+      {
+        "id": 255,
+        "type": "freaky",
+        "task": "Engage in a hot and passionate make-out session in a public place, pushing the boundaries of discretion."
+      },
+      {
+        "id": 256,
+        "type": "freaky",
+        "task": "Experiment with sensory deprivation, using blindfolds or earplugs to enhance other senses during intimacy."
+      },
+      {
+        "id": 257,
+        "type": "freaky",
+        "task": "Explore sexual fantasies through dirty talk, describing your deepest desires and acting them out."
+      },
+      {
+        "id": 258,
+        "type": "freaky",
+        "task": "Try out temperature play with candle wax, ice, or heated massage oils to add thrilling sensations."
+      },
+      {
+        "id": 259,
+        "type": "freaky",
+        "task": "Engage in mutual masturbation, watching and pleasuring each other simultaneously for heightened arousal."
+      },
+      {
+        "id": 260,
+        "type": "freaky",
+        "task": "Indulge in a night of extended foreplay, focusing solely on teasing and pleasuring each other without penetration."
+      },
+      {
+        "id": 276,
+        "type": "freaky",
+        "task": "Engage in a steamy session of mutual oral pleasure, taking turns pleasuring each other to orgasm."
+      },
+      {
+        "id": 277,
+        "type": "freaky",
+        "task": "Experiment with double penetration using a combination of toys and/or strap-ons for intense pleasure."
+      },
+      {
+        "id": 278,
+        "type": "freaky",
+        "task": "Explore the world of BDSM by taking on dominant and submissive roles, complete with restraints and punishments."
+      },
+      {
+        "id": 279,
+        "type": "freaky",
+        "task": "Engage in a wild and passionate outdoor sex adventure, finding a secluded spot and indulging in your desires."
+      },
+      {
+        "id": 280,
+        "type": "freaky",
+        "task": "Try out a full-body massage with edible massage oils, combining relaxation and sensual exploration."
+      },
+      {
+        "id": 281,
+        "type": "freaky",
+        "task": "Experiment with public sex, finding daring locations and engaging in discreet and thrilling encounters."
+      },
+      {
+        "id": 282,
+        "type": "freaky",
+        "task": "Indulge in a hot and steamy threesome with a trusted and willing partner, exploring new levels of pleasure."
+      },
+      {
+        "id": 283,
+        "type": "freaky",
+        "task": "Try out impact play, using floggers, paddles, or crops to deliver pleasurable sensations and light spankings."
+      },
+      {
+        "id": 284,
+        "type": "freaky",
+        "task": "Explore mutual masturbation in front of a mirror, watching each other's pleasure and building intense arousal."
+      },
+      {
+        "id": 285,
+        "type": "freaky",
+        "task": "Engage in role-playing as a dominant and submissive, complete with obedience and fulfilling fantasies."
+      },
+      {
+        "id": 286,
+        "type": "freaky",
+        "task": "Try out anal sex with the use of proper lubrication and relaxation techniques for maximum pleasure."
+      },
+      {
+        "id": 287,
+        "type": "freaky",
+        "task": "Indulge in a wild sex marathon, setting aside an entire day or night for multiple rounds of passionate lovemaking."
+      },
+      {
+        "id": 288,
+        "type": "freaky",
+        "task": "Experiment with voyeurism and exhibitionism, engaging in sexual activities while being watched or watching others."
+      },
+      {
+        "id": 289,
+        "type": "freaky",
+        "task": "Try out rough sex, incorporating elements of hair-pulling, light biting, and intense physicality."
+      },
+      {
+        "id": 290,
+        "type": "freaky",
+        "task": "Engage in a sexual fantasy role-play scenario, bringing your deepest desires to life and acting them out."
+      }
+    ]
+  }
